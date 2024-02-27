@@ -1,0 +1,29 @@
+C:\Users\221348\source\repos\Epic first program\Epic first program\bin\Debug\net6.0\Epic first program.exe
+C:\Users\221348\source\repos\Epic first program\Epic first program\bin\Debug\net6.0\Epic first program.deps.json
+C:\Users\221348\source\repos\Epic first program\Epic first program\bin\Debug\net6.0\Epic first program.runtimeconfig.json
+C:\Users\221348\source\repos\Epic first program\Epic first program\bin\Debug\net6.0\Epic first program.dll
+C:\Users\221348\source\repos\Epic first program\Epic first program\bin\Debug\net6.0\Epic first program.pdb
+C:\Users\221348\source\repos\Epic first program\Epic first program\obj\Debug\net6.0\Epic first program.csproj.AssemblyReference.cache
+C:\Users\221348\source\repos\Epic first program\Epic first program\obj\Debug\net6.0\Epic first program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\221348\source\repos\Epic first program\Epic first program\obj\Debug\net6.0\Epic first program.AssemblyInfoInputs.cache
+C:\Users\221348\source\repos\Epic first program\Epic first program\obj\Debug\net6.0\Epic first program.AssemblyInfo.cs
+C:\Users\221348\source\repos\Epic first program\Epic first program\obj\Debug\net6.0\Epic first program.csproj.CoreCompileInputs.cache
+C:\Users\221348\source\repos\Epic first program\Epic first program\obj\Debug\net6.0\Epic first program.dll
+C:\Users\221348\source\repos\Epic first program\Epic first program\obj\Debug\net6.0\refint\Epic first program.dll
+C:\Users\221348\source\repos\Epic first program\Epic first program\obj\Debug\net6.0\Epic first program.pdb
+C:\Users\221348\source\repos\Epic first program\Epic first program\obj\Debug\net6.0\Epic first program.genruntimeconfig.cache
+C:\Users\221348\source\repos\Epic first program\Epic first program\obj\Debug\net6.0\ref\Epic first program.dll
+C:\Users\logan\OneDrive - Halesowen College\College\Cyber Security (Ethical Hacking) Level 3\Subjects\Year 2\Advanced Programming\Projects\Epic first program\Epic first program\bin\Debug\net6.0\Epic first program.exe
+C:\Users\logan\OneDrive - Halesowen College\College\Cyber Security (Ethical Hacking) Level 3\Subjects\Year 2\Advanced Programming\Projects\Epic first program\Epic first program\bin\Debug\net6.0\Epic first program.deps.json
+C:\Users\logan\OneDrive - Halesowen College\College\Cyber Security (Ethical Hacking) Level 3\Subjects\Year 2\Advanced Programming\Projects\Epic first program\Epic first program\bin\Debug\net6.0\Epic first program.runtimeconfig.json
+C:\Users\logan\OneDrive - Halesowen College\College\Cyber Security (Ethical Hacking) Level 3\Subjects\Year 2\Advanced Programming\Projects\Epic first program\Epic first program\bin\Debug\net6.0\Epic first program.dll
+C:\Users\logan\OneDrive - Halesowen College\College\Cyber Security (Ethical Hacking) Level 3\Subjects\Year 2\Advanced Programming\Projects\Epic first program\Epic first program\bin\Debug\net6.0\Epic first program.pdb
+C:\Users\logan\OneDrive - Halesowen College\College\Cyber Security (Ethical Hacking) Level 3\Subjects\Year 2\Advanced Programming\Projects\Epic first program\Epic first program\obj\Debug\net6.0\Epic first program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\logan\OneDrive - Halesowen College\College\Cyber Security (Ethical Hacking) Level 3\Subjects\Year 2\Advanced Programming\Projects\Epic first program\Epic first program\obj\Debug\net6.0\Epic first program.AssemblyInfoInputs.cache
+C:\Users\logan\OneDrive - Halesowen College\College\Cyber Security (Ethical Hacking) Level 3\Subjects\Year 2\Advanced Programming\Projects\Epic first program\Epic first program\obj\Debug\net6.0\Epic first program.AssemblyInfo.cs
+C:\Users\logan\OneDrive - Halesowen College\College\Cyber Security (Ethical Hacking) Level 3\Subjects\Year 2\Advanced Programming\Projects\Epic first program\Epic first program\obj\Debug\net6.0\Epic first program.csproj.CoreCompileInputs.cache
+C:\Users\logan\OneDrive - Halesowen College\College\Cyber Security (Ethical Hacking) Level 3\Subjects\Year 2\Advanced Programming\Projects\Epic first program\Epic first program\obj\Debug\net6.0\Epic first program.dll
+C:\Users\logan\OneDrive - Halesowen College\College\Cyber Security (Ethical Hacking) Level 3\Subjects\Year 2\Advanced Programming\Projects\Epic first program\Epic first program\obj\Debug\net6.0\refint\Epic first program.dll
+C:\Users\logan\OneDrive - Halesowen College\College\Cyber Security (Ethical Hacking) Level 3\Subjects\Year 2\Advanced Programming\Projects\Epic first program\Epic first program\obj\Debug\net6.0\Epic first program.pdb
+C:\Users\logan\OneDrive - Halesowen College\College\Cyber Security (Ethical Hacking) Level 3\Subjects\Year 2\Advanced Programming\Projects\Epic first program\Epic first program\obj\Debug\net6.0\Epic first program.genruntimeconfig.cache
+C:\Users\logan\OneDrive - Halesowen College\College\Cyber Security (Ethical Hacking) Level 3\Subjects\Year 2\Advanced Programming\Projects\Epic first program\Epic first program\obj\Debug\net6.0\ref\Epic first program.dll

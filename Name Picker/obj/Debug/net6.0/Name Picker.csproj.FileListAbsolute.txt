@@ -1,0 +1,30 @@
+C:\Users\221348\source\repos\Name Picker\Name Picker\bin\Debug\net6.0\Name Picker.exe
+C:\Users\221348\source\repos\Name Picker\Name Picker\bin\Debug\net6.0\Name Picker.deps.json
+C:\Users\221348\source\repos\Name Picker\Name Picker\bin\Debug\net6.0\Name Picker.runtimeconfig.json
+C:\Users\221348\source\repos\Name Picker\Name Picker\bin\Debug\net6.0\Name Picker.dll
+C:\Users\221348\source\repos\Name Picker\Name Picker\bin\Debug\net6.0\Name Picker.pdb
+C:\Users\221348\source\repos\Name Picker\Name Picker\obj\Debug\net6.0\Name Picker.csproj.AssemblyReference.cache
+C:\Users\221348\source\repos\Name Picker\Name Picker\obj\Debug\net6.0\Name Picker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\221348\source\repos\Name Picker\Name Picker\obj\Debug\net6.0\Name Picker.AssemblyInfoInputs.cache
+C:\Users\221348\source\repos\Name Picker\Name Picker\obj\Debug\net6.0\Name Picker.AssemblyInfo.cs
+C:\Users\221348\source\repos\Name Picker\Name Picker\obj\Debug\net6.0\Name Picker.csproj.CoreCompileInputs.cache
+C:\Users\221348\source\repos\Name Picker\Name Picker\obj\Debug\net6.0\Name Picker.dll
+C:\Users\221348\source\repos\Name Picker\Name Picker\obj\Debug\net6.0\refint\Name Picker.dll
+C:\Users\221348\source\repos\Name Picker\Name Picker\obj\Debug\net6.0\Name Picker.pdb
+C:\Users\221348\source\repos\Name Picker\Name Picker\obj\Debug\net6.0\Name Picker.genruntimeconfig.cache
+C:\Users\221348\source\repos\Name Picker\Name Picker\obj\Debug\net6.0\ref\Name Picker.dll
+C:\Users\221348\OneDrive - Halesowen College\College\Cyber Security (Ethical Hacking) Level 3\Subjects\Year 2\Advanced Programming\Name Picker\Name Picker\bin\Debug\net6.0\Name Picker.exe
+C:\Users\221348\OneDrive - Halesowen College\College\Cyber Security (Ethical Hacking) Level 3\Subjects\Year 2\Advanced Programming\Name Picker\Name Picker\bin\Debug\net6.0\Name Picker.deps.json
+C:\Users\221348\OneDrive - Halesowen College\College\Cyber Security (Ethical Hacking) Level 3\Subjects\Year 2\Advanced Programming\Name Picker\Name Picker\bin\Debug\net6.0\Name Picker.runtimeconfig.json
+C:\Users\221348\OneDrive - Halesowen College\College\Cyber Security (Ethical Hacking) Level 3\Subjects\Year 2\Advanced Programming\Name Picker\Name Picker\bin\Debug\net6.0\Name Picker.dll
+C:\Users\221348\OneDrive - Halesowen College\College\Cyber Security (Ethical Hacking) Level 3\Subjects\Year 2\Advanced Programming\Name Picker\Name Picker\bin\Debug\net6.0\Name Picker.pdb
+C:\Users\221348\OneDrive - Halesowen College\College\Cyber Security (Ethical Hacking) Level 3\Subjects\Year 2\Advanced Programming\Name Picker\Name Picker\obj\Debug\net6.0\Name Picker.csproj.AssemblyReference.cache
+C:\Users\221348\OneDrive - Halesowen College\College\Cyber Security (Ethical Hacking) Level 3\Subjects\Year 2\Advanced Programming\Name Picker\Name Picker\obj\Debug\net6.0\Name Picker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\221348\OneDrive - Halesowen College\College\Cyber Security (Ethical Hacking) Level 3\Subjects\Year 2\Advanced Programming\Name Picker\Name Picker\obj\Debug\net6.0\Name Picker.AssemblyInfoInputs.cache
+C:\Users\221348\OneDrive - Halesowen College\College\Cyber Security (Ethical Hacking) Level 3\Subjects\Year 2\Advanced Programming\Name Picker\Name Picker\obj\Debug\net6.0\Name Picker.AssemblyInfo.cs
+C:\Users\221348\OneDrive - Halesowen College\College\Cyber Security (Ethical Hacking) Level 3\Subjects\Year 2\Advanced Programming\Name Picker\Name Picker\obj\Debug\net6.0\Name Picker.csproj.CoreCompileInputs.cache
+C:\Users\221348\OneDrive - Halesowen College\College\Cyber Security (Ethical Hacking) Level 3\Subjects\Year 2\Advanced Programming\Name Picker\Name Picker\obj\Debug\net6.0\Name Picker.dll
+C:\Users\221348\OneDrive - Halesowen College\College\Cyber Security (Ethical Hacking) Level 3\Subjects\Year 2\Advanced Programming\Name Picker\Name Picker\obj\Debug\net6.0\refint\Name Picker.dll
+C:\Users\221348\OneDrive - Halesowen College\College\Cyber Security (Ethical Hacking) Level 3\Subjects\Year 2\Advanced Programming\Name Picker\Name Picker\obj\Debug\net6.0\Name Picker.pdb
+C:\Users\221348\OneDrive - Halesowen College\College\Cyber Security (Ethical Hacking) Level 3\Subjects\Year 2\Advanced Programming\Name Picker\Name Picker\obj\Debug\net6.0\Name Picker.genruntimeconfig.cache
+C:\Users\221348\OneDrive - Halesowen College\College\Cyber Security (Ethical Hacking) Level 3\Subjects\Year 2\Advanced Programming\Name Picker\Name Picker\obj\Debug\net6.0\ref\Name Picker.dll
